@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pranjaligarg
+- 👋 Hi, I’m @Pranjali
 - 👀 I’m interested in java ,web development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on...
